@@ -66,3 +66,64 @@ OrangeHRM-Automation
 ├── pom.xml
 │
 └── testng.xml
+
+---
+
+## Design Pattern
+
+This framework follows the Page Object Model (POM) design pattern:
+
+- Separation of Page Objects and Test Scripts
+- Better Code Reusability
+- Easy Maintenance
+- Improved Readability
+
+---
+
+## Test Scenarios Covered
+
+### Login Module
+
+- Valid Login
+- Invalid Login
+- Empty Credentials
+- Password Validation
+
+### Employee Management
+
+- Add Employee
+- Search Employee
+- Update Employee Details
+- Delete Employee
+
+### Leave Management
+
+- Apply Leave
+- Approve Leave
+- Reject Leave
+
+### Admin Module
+
+- Create User
+- Search User
+- Update User
+- Delete User
+
+---
+
+## Reporting
+
+The framework generates:
+
+- TestNG Reports
+- Extent Reports
+- Failure Screenshots
+
+---
+
+## How to Run
+
+### Clone Repository
+
+```bash
+git clone <repository-url>
