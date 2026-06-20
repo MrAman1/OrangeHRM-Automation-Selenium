@@ -45,3 +45,24 @@ This project is a Selenium-based Automation Testing Framework developed for the 
 ---
 
 ## Framework Structure
+OrangeHRM-Automation
+│
+├── src/main/java
+│ ├── pages
+│ ├── utilities
+│ └── base
+│
+├── src/test/java
+│ ├── tests
+│ └── dataProviders
+│
+├── testData
+│ └── Excel Files
+│
+├── reports
+│
+├── screenshots
+│
+├── pom.xml
+│
+└── testng.xml
